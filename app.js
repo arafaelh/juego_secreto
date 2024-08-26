@@ -26,7 +26,7 @@ function verificarIntento() {
   }
   return;
 }
-
+/+ comentario */
 function limpiarCaja() {
   document.getElementById('valorUsuario').value = '';
 }
